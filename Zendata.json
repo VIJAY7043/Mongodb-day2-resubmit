@@ -1,0 +1,131 @@
+[
+ [{
+    "user_id": 1,
+    "name":" vijay",
+    "email" : "xxx@gmail.com" 
+},
+{
+    "user_id": 2,
+    "name":" surya",
+    "email" : "xyx@gmail.com" 
+},
+{
+    "user_id": 3,
+    "name":" vipin",
+    "email" : "yyy@gmail.com" 
+}
+ ],
+[
+ {
+    "user_id": 1,
+    "codekata_id" : 1,
+    "problemsolved": 60
+},
+{
+    "user_id": 2,
+    "codekata_id" : 2,
+    "problemsolved": 50
+}, 
+
+{
+    "user_id": 3,
+    "codekata_id" : 3,
+    "problemsolved": 80
+}
+],
+[
+{
+    "user_id":1,
+    "attendance_id":1,
+    "date" : "2023-10-14",
+    "status":"Present"
+},
+{
+    "user_id":2,
+    "attendance_id":1,
+    "date" : "2023-10-14",
+    "status":"Present"
+},
+
+{
+    "user_id":3,
+    "attendance_id":1,
+    "date" : "2023-10-14",
+    "status":"Absent"
+} 
+],
+[
+{
+    "topic_id" : 1,
+    "name": "React"
+},
+{
+    "topic_id" : 2,
+    "name": "mongodb"
+},
+{
+    "topic_id" : 3,
+    "name": "nodejs"
+}
+],
+
+[
+ {
+    "task_id":2,
+    "user_id":2,
+    "topic_id":2,
+    "submission-date":"2023-10-15"
+
+
+ },
+ {
+    "task_id":3,
+    "user_id":3,
+    "topic_id":3,
+    "submission-date":"2023-10-15"
+
+
+ }
+],
+
+ [
+    {
+       "drive_id": 1,
+       "date": "2023-10-20",
+       "participants": [1, 2]
+    },
+    {
+       "drive_id": 2,
+       "date": "2023-10-22",
+       "participants": [2, 3]
+    },
+    {
+        "drive_id": 2,
+        "date": "2023-10-22",
+        "participants": [4, 3]
+     }
+ ],
+ [
+    {
+       "mentor_id": 1,
+       "name": "samjay",
+       "mentee_count": 18
+    },
+    {
+       "mentor_id": 2,
+       "name": "chandrasekar",
+       "mentee_count": 12
+    },
+    {
+       "mentor_id": 3,
+       "name": "thirupati",
+       "mentee_count": 20
+    }
+  
+ ]
+ 
+
+
+
+]
+
